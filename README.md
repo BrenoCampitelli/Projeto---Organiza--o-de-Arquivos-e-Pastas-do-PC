@@ -1,1 +1,1 @@
-Projeto - Organização de Arquivos e Pastas do PC
+Mini Projeto - Organização de Arquivos e Pastas do PC
